@@ -25,7 +25,7 @@ sudo install minikube-darwin-amd64 /usr/local/bin/minikube
 
 ## Install kubectl
 
-Install it using brew :
+Install it using brew:
  
 ```
 brew install kubernetes-cli
